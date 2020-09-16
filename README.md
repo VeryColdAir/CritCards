@@ -3,6 +3,8 @@ A critical hit/fumble card desktop application for tabletop role-playing games.
 
 ![Program with cards shown.](https://i.imgur.com/EqamhcN.png)
 
+The cards shown (above) are for demonstration purposes only and are not included.
+
 ![Program with no cards shown.](https://i.imgur.com/3QEcyuW.png)
 
 ## Config
