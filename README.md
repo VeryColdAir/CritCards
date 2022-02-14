@@ -1,7 +1,7 @@
 # CritCards
 A critical hit/fumble card desktop application for tabletop role-playing games.
 
-![Program with cards shown.](https://i.imgur.com/EqamhcN.png)
+![Program with cards shown.](https://imgur.com/a/XwOt0rB)
 
 The cards shown (above) are for demonstration purposes only and are not included.
 
@@ -15,4 +15,4 @@ When you first launch the application, you will have to profile directory paths 
 
 ## Download
 
-[Click here to download CritCards 0.1.1.](https://github.com/VeryColdAir/CritCards/blob/master/CritCards_0_1_1.exe)
+[Click here to download CritCards 0.1.2.](https://github.com/VeryColdAir/CritCards/blob/master/CritCards_0_1_2.exe)
