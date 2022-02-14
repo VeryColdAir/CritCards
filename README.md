@@ -1,7 +1,7 @@
 # CritCards
 A critical hit/fumble card desktop application for tabletop role-playing games.
 
-![Program with cards shown.](https://imgur.com/a/XwOt0rB)
+![Program with cards shown.](https://i.imgur.com/qkrya1y.png)
 
 The cards shown (above) are for demonstration purposes only and are not included.
 
