@@ -6,7 +6,7 @@ Public Class Form1
     Private myConfig As New Config
     Private numHits As Integer
     Private numFumbles As Integer
-    Private versionNumber As String = "0.1.1"
+    Private versionNumber As String = "0.1.2"
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles Me.Load
         'Check to see if the CritCards folder already exists in the appData
         If (Not System.IO.Directory.Exists(xmlPath)) Then
@@ -119,15 +119,19 @@ Public Class Form1
         PictureBox1.Image = Image.FromFile(card)
         If Not PictureBox1.Image Is Nothing Then
             PictureBox1.Visible = True
+            PictureBox1.BackColor = Color.Black
         End If
         If Not PictureBox2.Image Is Nothing Then
             PictureBox2.Visible = True
+            PictureBox2.BackColor = Color.Black
         End If
         If Not PictureBox3.Image Is Nothing Then
             PictureBox3.Visible = True
+            PictureBox3.BackColor = Color.Black
         End If
         If Not PictureBox4.Image Is Nothing Then
             PictureBox4.Visible = True
+            PictureBox4.BackColor = Color.Black
         End If
     End Sub
 
